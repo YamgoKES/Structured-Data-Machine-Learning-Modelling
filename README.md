@@ -17,8 +17,7 @@ GitHub<br>
 데이터 전처리 및 회귀 모델링 (RandomForestRegressor, LinearRegression, XGBRegressor + Soft Voting (확률 평균) )
 
 ## 기여자
-..
-
+조원분들
 
 ## 참고
 [notion_중간까지의 내용]([https://example.com](https://www.notion.so/25-04-1ca40b8e2f868074b3cad28d1c29ca2a?pvs=4))
